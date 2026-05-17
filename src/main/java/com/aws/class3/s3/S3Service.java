@@ -20,7 +20,7 @@ public class S3Service {
 
 // Mudar para o nome do seu bucket
     private static final String BUCKET =
-            "aws-class-1-447197207642-sa-east-1-an";
+            "amazon-s3-class3-766938265565-sa-east-1-an";
 
     public S3Service(S3Client s3Client) {
         this.s3Client = s3Client;
